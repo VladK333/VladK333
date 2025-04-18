@@ -1,19 +1,46 @@
-# 👋 Hi, I'm Vladana Aleksić
+<h1 align="center">Vladana Aleksic</h1>
 
-I'm a Software Engineering undergraduate at the Faculty of Technical Sciences, University of Novi Sad, Serbia.  
-My main interest is backend development, but I'm also learning frontend through online courses to broaden my perspective.  
-I'm open to projects that can help me grow, learn, and build my career in IT.  
-I'm especially interested in opportunities that will expand my current knowledge and allow me to apply what I've learned so far in real-world scenarios.
+<p align="center">
+  🎓 Software Engineering student at <b>University of Novi Sad, Serbia</b><br/>
+  💡 Passionate about backend development<br/>
+  🌱 Learning frontend to expand my full-stack perspective<br/>
+  🚀 Always open to new projects and collaboration opportunities
+</p>
 
-## 💻 Technologies I've Worked With
+---
 
-- Programming Languages: **C**, **C#**, **C++**, **Julia**, **MATLAB**, **JavaScript**
-- Backend: **.NET**, **Arduino**
-- Frontend: **HTML**, **CSS**
-- Frameworks & Tools: **WPF**, **Visual Studio**, **Git**
+### 👩‍💻 About Me
 
-## 🌐 Connect with Me
+I'm a Software Engineering undergraduate at the Faculty of Technical Sciences, University of Novi Sad.  
+My main focus is backend development, but I'm also learning frontend technologies through online courses to broaden my skill set.  
+I'm especially interested in projects that challenge me, expand my knowledge, and allow me to apply what I've learned so far.
 
-- [LinkedIn](https://www.linkedin.com/in/vladanaaleksic)
-- [GitHub](https://github.com/VladK333)
+---
 
+### 🛠️ Technologies & Tools
+
+- **Languages**: `C`, `C#`, `C++`, `Julia`, `MATLAB`, `JavaScript`
+- **Backend**: `.NET`, `Arduino`
+- **Frontend**: `HTML`, `CSS`
+- **Other Tools**: `WPF`, `Git`, `Visual Studio`
+
+---
+
+### 📫 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/vladanaaleksic" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/VladK333" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VladK333&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
