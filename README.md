@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Vladana Aleksić
 
-<!--
-**VladK333/VladK333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering undergraduate at the Faculty of Technical Sciences, University of Novi Sad, Serbia.  
+My main interest is backend development, but I'm also learning frontend through online courses to broaden my perspective.  
+I'm open to projects that can help me grow, learn, and build my career in IT.  
+I'm especially interested in opportunities that will expand my current knowledge and allow me to apply what I've learned so far in real-world scenarios.
 
-Here are some ideas to get you started:
+## 💻 Technologies I've Worked With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: **C**, **C#**, **C++**, **Julia**, **MATLAB**, **JavaScript**
+- Backend: **.NET**, **Arduino**
+- Frontend: **HTML**, **CSS**
+- Frameworks & Tools: **WPF**, **Visual Studio**, **Git**
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/vladanaaleksic)
+- [GitHub](https://github.com/VladK333)
+
