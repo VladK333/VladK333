@@ -1,4 +1,4 @@
-<h1 align="center">Vladana Aleksic</h1>
+<h1 align="center">Vladana Aleksić</h1>
 
 <p align="center">
   🎓 Software Engineering student at <b>University of Novi Sad, Serbia</b><br/>
