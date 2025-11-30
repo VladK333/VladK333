@@ -41,6 +41,5 @@ I'm especially interested in projects that challenge me, expand my knowledge, an
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/VladK333?label=Followers&style=for-the-badge" alt="Followers"/>
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VladK333?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
