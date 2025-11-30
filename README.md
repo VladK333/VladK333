@@ -42,5 +42,8 @@ I'm especially interested in projects that challenge me, expand my knowledge, an
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladK333&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VladK333&show_icons=true&theme=radical" 
+    alt="GitHub stats" 
+  />
 </p>
