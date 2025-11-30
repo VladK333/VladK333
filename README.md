@@ -41,5 +41,11 @@ I'm especially interested in projects that challenge me, expand my knowledge, an
 
 ### 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VladK333?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img 
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/VladK333?cardType=level&theme=github-dark&preferLogin=false" 
+      alt="My Awesome Stats"
+    />
+  </a>
+</p>
