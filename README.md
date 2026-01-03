@@ -19,8 +19,8 @@ I'm especially interested in projects that challenge me, expand my knowledge, an
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: `C`, `C#`, `C++`, `Julia`, `MATLAB`, `JavaScript`
-- **Backend**: `.NET`, `Arduino`
+- **Languages**: `C`, `C#`, `C++`, `Julia`, `MATLAB`, `Python` 
+- **Backend**: `.NET`, `Arduino`, `Flask`
 - **Frontend**: `HTML`, `CSS`
 - **Other Tools**: `WPF`, `Git`, `Visual Studio`
 
