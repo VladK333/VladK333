@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a Software Engineering undergraduate at the Faculty of Technical Sciences, University of Novi Sad.  
+I'm a Software Engineering undergraduate at the Faculty of Technical Sciences, University of Novi Sad, Serbia.  
 My main focus is backend development, but I'm also learning frontend technologies through online courses to broaden my skill set.  
 I'm especially interested in projects that challenge me, expand my knowledge, and allow me to apply what I've learned so far.
 
