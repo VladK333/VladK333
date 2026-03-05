@@ -29,6 +29,9 @@ I'm especially interested in projects that challenge me, expand my knowledge, an
 ### 📫 Connect with Me
 
 <p>
+  <a href="https://vladk333.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/vladanaaleksic" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
