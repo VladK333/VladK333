@@ -19,10 +19,10 @@ I'm especially interested in projects that challenge me, expand my knowledge, an
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: `C`, `C#`, `C++`, `Julia`, `MATLAB`, `Python` 
-- **Backend**: `.NET`, `Arduino`, `Flask`
+- **Languages**: `C`, `C#`, `C++`, `MATLAB`, `Python` 
+- **Backend**: `.NET`, `Flask`
 - **Frontend**: `HTML`, `CSS`
-- **Other Tools**: `WPF`, `Git`, `Visual Studio`
+- **Other Tools**: `WPF`, `Git`, `Visual Studio`, `Jupyter Notebook` 
 
 ---
 
